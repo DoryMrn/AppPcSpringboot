@@ -1,0 +1,95 @@
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+
+form {
+    margin-top: 20px;
+    
+}
+
+
+
+h3 {
+    margin: 5px 0;
+    
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 60px;
+    margin-right: 10px;
+    
+}
+input[type="submit"][value="Aggiungi"] {
+    padding: 10px 20px;
+    background-color: #0000CD;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #0000CD;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+button{
+	padding: 10px 20px;
+    background-color: #0000CD;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+.card {
+    flex: 1 0 21%; 
+    margin: 10px; 
+}

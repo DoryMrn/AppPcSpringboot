@@ -24,7 +24,7 @@ For further details on usage and development of the project, refer to the docume
 <br>
 
 <h1>Descrizione del Progetto</h1>
-Questo progetto è un'applicazione web sviluppata in Java utilizzando il framework Spring Boot, thymeleaf, le dipendenze di Gradle e il database dei dati di SQL. L'applicazione gestisce un inventario di prodotti di elettronica in un magazzino, consentendo agli utenti di visualizzare, aggiungere, modificare e acquistare computer. È stato implementato un sistema di persistenza dei dati tramite JDBC per interagire con un database relazionale.
+Questo progetto è un'applicazione web sviluppata in Java utilizzando il framework Spring Boot, thymeleaf, le dipendenze di Gradle e i dati del database di SQL. L'applicazione gestisce un inventario di prodotti di elettronica in un magazzino, consentendo agli utenti di visualizzare, aggiungere, modificare e acquistare computer. È stato implementato un sistema di persistenza dei dati tramite JDBC per interagire con un database relazionale.
 <h2>Funzionalità Principali:</h2>
     1. Visualizzazione dell'Inventario:<br>
         ◦ Gli utenti possono visualizzare l'elenco completo dei prodotti disponibili nel magazzino. <br>       

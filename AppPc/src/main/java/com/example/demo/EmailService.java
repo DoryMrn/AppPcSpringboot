@@ -16,7 +16,7 @@ public class EmailService {
         message.setTo(to);
         message.setSubject(subject);
         message.setText(text);
-        message.setFrom("dory0102@gmail.com"); // lo stesso indirizzo email usato per la configurazione
+        message.setFrom("Mail@gmail.com"); // lo stesso indirizzo email usato per la configurazione
 
         mailSender.send(message);
     }

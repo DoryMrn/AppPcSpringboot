@@ -50,8 +50,8 @@ Per ulteriori dettagli sull'utilizzo e lo sviluppo del progetto, consulta la doc
 
 
 <h1>Screenshots</h1>
-<a href="https://ibb.co/QCMwfpQ"><img src="https://i.ibb.co/QCMwfpQ/19b99a5d1c7266858d7318a5fcdc9cb5.png" alt="19b99a5d1c7266858d7318a5fcdc9cb5" border="0"></a>
+<img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/1.png"
 <br>
-<a href="https://ibb.co/5cv4Tp4"><img src="https://i.ibb.co/5cv4Tp4/a51e928ec88708b951d1e34ab0f37983.png" alt="a51e928ec88708b951d1e34ab0f37983" border="0"></a>
+<img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/2.png"
 <br>
-<a href="https://ibb.co/64Ph1Gh"><img src="https://i.ibb.co/64Ph1Gh/31eb664f509dd1c267b7ed5f36e41245.png" alt="31eb664f509dd1c267b7ed5f36e41245" border="0"></a>
+<img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/3.png"

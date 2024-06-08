@@ -50,8 +50,8 @@ Per ulteriori dettagli sull'utilizzo e lo sviluppo del progetto, consulta la doc
 
 
 <h1>Screenshots</h1>
-<a href="https://gyazo.com/19b99a5d1c7266858d7318a5fcdc9cb5"><img src="https://i.gyazo.com/19b99a5d1c7266858d7318a5fcdc9cb5.png" alt="Image from Gyazo" width="1906"/></a>
+<a href="https://ibb.co/QCMwfpQ"><img src="https://i.ibb.co/QCMwfpQ/19b99a5d1c7266858d7318a5fcdc9cb5.png" alt="19b99a5d1c7266858d7318a5fcdc9cb5" border="0"></a>
 <br>
-<a href="https://gyazo.com/a51e928ec88708b951d1e34ab0f37983"><img src="https://i.gyazo.com/a51e928ec88708b951d1e34ab0f37983.png" alt="Image from Gyazo" width="1919"/></a>
+<a href="https://ibb.co/5cv4Tp4"><img src="https://i.ibb.co/5cv4Tp4/a51e928ec88708b951d1e34ab0f37983.png" alt="a51e928ec88708b951d1e34ab0f37983" border="0"></a>
 <br>
-<a href="https://gyazo.com/31eb664f509dd1c267b7ed5f36e41245"><img src="https://i.gyazo.com/31eb664f509dd1c267b7ed5f36e41245.png" alt="Image from Gyazo" width="1920"/></a>
+<a href="https://ibb.co/64Ph1Gh"><img src="https://i.ibb.co/64Ph1Gh/31eb664f509dd1c267b7ed5f36e41245.png" alt="31eb664f509dd1c267b7ed5f36e41245" border="0"></a>

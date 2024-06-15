@@ -52,6 +52,6 @@ Per ulteriori dettagli sull'utilizzo e lo sviluppo del progetto, consulta la doc
 <h1>Screenshots</h1>
 <img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/1.png"
 <br>
-<img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/2.png"
+<img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/5.png"
 <br>
 <img src="https://github.com/DoryMrn/AppPcSpringboot/blob/main/AppPc/src/main/resources/static/3.png"
